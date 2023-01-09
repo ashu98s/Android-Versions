@@ -14,4 +14,3 @@ The posts contains:
 
 ### Android 1.5 Cupcake
 Android 1.5 was released on April 27, 2009 and it is the first Android version to officially get a dessert nickname. Android 1.5 was known as Android Cupcake and it was developed by Google with API 3.
-
