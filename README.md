@@ -52,3 +52,19 @@ Android 4.0 Ice Cream Sandwich was released on October 18, 2011, and it came wit
 Android 4.1 Jelly Bean got official on July 9, 2012, and it came with an API of 16 to 18. Android Jelly Bean is also officially the 10th iteration of Android and it was developed to offer performance improvements along with smooth user experience when compared to Android 4.0.
 
 <p align="right"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211310600-98501030-210b-4432-beab-c6602db33703.png"> </p>
+
+### Android 4.4 KitKat
+Android 4.4 KitKat got official on October 31, 2013 and it came with an API of 19 to 20. This version of Android was developed to offer an improved user experience on devices with limited hardware capabilities.
+
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211311092-089fb4ac-472b-422b-b029-bfc17ea7591c.png"> </p>
+
+### Android 5.0 Lollipop
+Android 5.0 Lollipop offered a major design overhaul when compared to Android 4.4 KitKat and it was released on November 12, 2014 and it came with an API version 21 to 22. This version of Android offered a redesigned UI and it also replaced Dalvik with ART or Android Runtime to improve application performance and battery optimization.
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211311540-be0ed0c8-a599-4f65-adff-cfd5bf0b8d59.png"> </p>
+
+### Android 6.0 Marshmallow
+Android 6.0 Marshmallow was released on October 5, 2015, based on API 23. It offered a new permission architecture to improve user-privacy and it also natively supported USB Type-C port and a physical fingerprint sensor.
+
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211312027-73cd7e56-1232-4bd5-99fb-d5b0d41b31fb.png"> </p>
+
+
