@@ -67,4 +67,35 @@ Android 6.0 Marshmallow was released on October 5, 2015, based on API 23. It off
 
 <p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211312027-73cd7e56-1232-4bd5-99fb-d5b0d41b31fb.png"> </p>
 
+### Android 7.0 Nougat
+Android 7.0 Nougat with an API version of 24 to 25 was released on August 22, 2016. Nougat offered support for Vulkan API for better graphics rendering along with a new app notification format.
 
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211314810-29dfd340-d70a-4025-b644-129e196a4f8c.png"> </p>
+
+### Android 8.0 Oreo
+Android 8.0 Oreo got launched on August 21, 2017, and this version was based API 26 to 27. Oreo was the first Android version to support Bluetooth 5.0 and wide color gamut.
+
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211315243-e6fc94e4-c760-424a-93a2-8fa8a20e186e.png"> </p>
+
+### Android 9 Pie
+Android 9 Pie got official on August 6, 2018, with API 28 and it offered a refreshed material design with a new style of navigation buttons. Till today, a lot of smartphones are still based on Android 9 Pie.
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211315928-744f1723-971a-40d4-b94e-b7af9f542bf1.png"> </p>
+
+### Android 10
+Android 10 was released on September 3, 2019, based on API 29. This version was known as Android Q at the time of development and this is the first modern Android OS that doesn’t have a dessert code name. It offered a complete full-screen user interface with a redesigned navigation system, which is a bit similar to the modern iPhones.
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211316181-3983297e-6cf7-4d11-a6ee-b816564d61bf.png"> </p>
+
+### Android 11
+Android 11 was released on September 8, 2020 and this version was based on API 30. It comes with features like conversation notifications and this is also the first official Android version to offer built-in screen recorder.
+
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211316417-a4b709ea-71cf-4ee4-b2ab-8b0bbf98b97d.png"> </p>
+
+### Android 12 (Snow Cone)
+Android 12 was released on September, 2021 and this version was based on API 31. 
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211316680-4b19d95d-f36e-4914-84c9-76b042a1da73.png"> </p>
+
+### Android 13
+Android 13 was released on 15 August, 2022 and this version was based in API 33.
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211317003-026723c0-ec64-4934-9e54-27e8fa812196.png"> </p>
+
+THANK YOU
