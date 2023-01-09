@@ -23,3 +23,7 @@ Android 1.6 Donut was released on September 15, 2009, just a few months after th
 
 <p align="right"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211306411-542a39fe-e90a-42f3-8e47-f0d2ce0e5442.png"> </p>
 
+### Android 2.0 Eclair
+Android 2.0 Éclair came with an API level of 5 to 7 and it was released on October 26, 2009, again, a fourth major Android update to get released in 2009. The fifth version of Android aka Android 2.0 Éclair offered many features.
+
+<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211307458-fe6c6277-c94a-437b-a958-7d120df69784.png"> </p>
