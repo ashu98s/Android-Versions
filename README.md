@@ -21,5 +21,5 @@ Android 1.5 was released on April 27, 2009 and it is the first Android version t
 ### Android 1.6 Donut
 Android 1.6 Donut was released on September 15, 2009, just a few months after the launch of the Android 1.5 Cupcake and it came with the API 4. This was also called the fourth version of the Android and it introduced some distinctive features.
 
-<p align="left"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211304199-20ff25b1-d80b-4abe-91f9-20547989d0d8.png"> </p>
+<p align="right"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/36065206/211306411-542a39fe-e90a-42f3-8e47-f0d2ce0e5442.png"> </p>
 
